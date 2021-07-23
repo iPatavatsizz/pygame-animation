@@ -1,2 +1,2 @@
 # pygame-animation
-timer based animation on pygame
+timer based animation code on pygame
